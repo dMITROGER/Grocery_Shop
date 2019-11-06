@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Some food to be good</string>
+
+    <string name="price">price CAD</string>
+    <string name="fullName">Full name</string>
+    <string name="OrderSum">Order summary</string>
+    <string name="Pmethod">Payment method</string>
+    <string name="Total">Total: CAD</string>
+
+    <string name="complete">Complete and pay</string>
+
+
+    <string name="cart">Shopping cart</string>
+    <string name="Lb">Lb</string>
+    <string name="pc">pc</string>
+    <string name="Add_to_Cart">Add/Change cart</string>
+    <string name="Enter">   Enter to buy some food!   </string>
+    <string name="txtPayment">Payment options:</string>
+    <string name="paymentOption_1">Credit card</string>
+    <string name="paymentOption_2">Debit card</string>
+    <string name="paymentOption_3">Paypal</string>
+    <string name="email">email</string>
+    <string name="proceed">Proceed</string>
+
+    <string name="creditCh">Credit card is checked!</string>
+    <string name="debitCh">Debit card is checked!</string>
+    <string name="paypalCh">Paypal is checked!</string>
+
+    <string name="favoriteFruit">Your favourite fruit in our store:</string>
+    <string name="favoriteVeg">Your favourite vegetable in our store:</string>
+
+
+    // messages
+    <string name="MessageAdd">Added/Changed successfully</string>
+
+    <string name="MessageAdded">Added to cart</string>
+
+
+    <string name="m1">Vegetables and legumes/beans</string>
+    <string name="m2">Fruit</string>
+    <string name="m3">Grain (cereal) foods</string>
+    <string name="m4">Lean meats and poultry, fish, eggs, tofu, nuts and seeds</string>
+    <string name="m5">Milk, yogurt cheese</string>
+
+    <string name="V_Tomato">Tomato</string>
+    <string name="V_TomatoP">0.95</string>
+    <string name="V_Cucumber">Cucumber</string>
+    <string name="V_CucumberP">0.54</string>
+    <string name="V_Pepper">Pepper</string>
+    <string name="V_PepperP">2.95</string>
+    <string name="V_Potato">Potato</string>
+    <string name="V_PotatoP">0.45</string>
+    <string name="V_Carrot">Carrot</string>
+    <string name="V_CarrotP">0.75</string>
+
+    <string name="F_Apple">Apple</string>
+    <string name="F_AppleP">0.85</string>
+    <string name="F_Pear">Pear</string>
+    <string name="F_PearP">1.95</string>
+    <string name="F_Banana">Banana</string>
+    <string name="F_BananaP">0.95</string>
+    <string name="F_Lemon">Lemon</string>
+    <string name="F_LemonP">0.65</string>
+    <string name="F_Grape">Grape</string>
+    <string name="F_GrapeP">1.05</string>
+
+    <string name="G_Oatmeal">Oatmeal </string>
+    <string name="G_OatmealP">6.85</string>
+    <string name="G_Crunch">Crunch Cereal</string>
+    <string name="G_CrunchP">5.95</string>
+    <string name="G_Cheerios">Cheerios</string>
+    <string name="G_CheeriosP">3.65</string>
+    <string name="G_Flakes">Flakes </string>
+    <string name="G_FlakesP">7.45</string>
+    <string name="G_Oats">Quick Oats</string>
+    <string name="G_OatsP">3.62</string>
+
+    <string name="L_Pork">Pork (lb)</string>
+    <string name="L_PorkP">3.85</string>
+    <string name="L_Beaf">Beaf (lb)</string>
+    <string name="L_BeafP">6.95</string>
+    <string name="L_Chicken">Chicken (lb)</string>
+    <string name="L_ChickenP">2.65</string>
+    <string name="L_Fish">Fish (lb)</string>
+    <string name="L_FishP">4.45</string>
+    <string name="L_Egg">Egg 12pc</string>
+    <string name="L_EggP">2.55</string>
+
+    <string name="M_Milk">Milk</string>
+    <string name="M_MilkP">4.85</string>
+    <string name="M_Yogurt">Yogurt</string>
+    <string name="M_YogurtP">3.95</string>
+    <string name="M_Cheese">Cheese</string>
+    <string name="M_CheeseP">8.65</string>
+    <string name="M_Butter">Butter</string>
+    <string name="M_ButterP">4.45</string>
+    <string name="M_SourCream">Sour Cream</string>
+    <string name="M_SourCreamP">2.45</string>
+
+
+</resources>

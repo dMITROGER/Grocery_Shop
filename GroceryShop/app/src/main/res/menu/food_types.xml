@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mn1"
+
+        android:title="@string/m1">
+        android:color="grey"
+
+    </item>
+
+    <item
+        android:id="@+id/mn2"
+        android:title="@string/m2">
+
+    </item>
+    <item
+        android:id="@+id/mn3"
+        android:title="@string/m3">
+
+    </item>
+    <item
+        android:id="@+id/mn4"
+        android:title="@string/m4">
+
+    </item>
+    <item
+        android:id="@+id/mn5"
+        android:title="@string/m5">
+
+    </item>
+
+</menu>
